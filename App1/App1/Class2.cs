@@ -8,5 +8,6 @@ namespace App1
 {
     class Class2
     {
+        int b1;
     }
 }
