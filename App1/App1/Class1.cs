@@ -9,5 +9,6 @@ namespace App1
     class Class1
     {
         int user2;
+        int user2B;
     }
 }
