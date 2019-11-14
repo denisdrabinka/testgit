@@ -10,5 +10,6 @@ namespace App1
     {
         int b1;
         int b2;
+        int user1
     }
 }
