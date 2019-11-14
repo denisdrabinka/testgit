@@ -11,6 +11,7 @@ namespace App1
         int user2;
         int user2B;
         int master;
+        int user1;
 
     }
 }
