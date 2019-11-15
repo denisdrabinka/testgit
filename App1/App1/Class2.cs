@@ -8,6 +8,6 @@ namespace App1
 {
     class Class2
     {
-        int master;
+        int user2;
     }
 }
