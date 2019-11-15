@@ -9,5 +9,6 @@ namespace App1
     class Class3
     {
         int master1;
+
     }
 }
